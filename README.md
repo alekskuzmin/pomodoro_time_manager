@@ -1,3 +1,0 @@
-# timemanager
-
-Pomodoro facilitator
